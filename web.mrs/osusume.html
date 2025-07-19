@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mrs. GREEN APPLE おすすめ楽曲診断</title>
+    <link rel="stylesheet" href="osusume.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Mrs. GREEN APPLE おすすめ楽曲診断</h1>
+
+        <div id="quiz-section">
+            <div class="question-box" id="question1">
+                <h2>Q1. 今の気分はどんな感じ？</h2>
+                <button data-value="up" class="answer-btn">元気にノリたい！</button>
+                <button data-value="calm" class="answer-btn">しっとり落ち着きたい</button>
+                <button data-value="hate" class="answer-btn">いやな気分</button>
+                <button data-value="sad" class="answer-btn">悲しい気分...</button>
+            </div>
+
+            <div class="question-box" id="question2" style="display: none;">
+                <h2>Q2. どんな曲調が好き？</h2>
+                <button data-value="rock" class="answer-btn">バンドサウンドが強いロック</button>
+                <button data-value="pop" class="answer-btn">キャッチーなポップ</button>
+                <button data-value="ballad" class="answer-btn">壮大なバラード</button>
+                <button data-value="edm" class="answer-btn">エレクトロニックなEDM</button>
+            </div>
+
+            <div class="question-box" id="question3" style="display: none;">
+                <h2>Q3. 歌詞の内容で惹かれるのは？</h2>
+                <button data-value="positive" class="answer-btn">前向き・応援</button>
+                <button data-value="deep" class="answer-btn">深いメッセージ・哲学</button>
+                <button data-value="love" class="answer-btn">恋愛・人間関係</button>
+                <button data-value="impression" class="answer-btn">感動的・共感</button>
+            </div>
+        </div>
+
+        <div id="result-section" style="display: none;">
+            <h2>あなたへのおすすめ楽曲はこちら！</h2>
+            <div class="recommendation-box">
+                <h3 id="song-title"></h3>
+                <p id="song-description"></p>
+                <div id="song-link-container"></div>
+            </div>
+            <button id="restart-btn">もう一度診断する</button>
+        </div>
+    </div>
+   
+    <iframe width="560" height="315"
+            src="https://www.youtube.com/embed/your_samama_embed_url4"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen>
+    </iframe>
+    <script src="script-osusume.js"></script>
+</body>
+</html>
