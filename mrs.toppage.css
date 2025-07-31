@@ -81,118 +81,69 @@ nav a:active { /* クリック時のアクティブエフェクト */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
 }
 
-h2 {
-    color: #2980b9;
-    margin-bottom: 25px;
-    font-size: 1.8em;
+
+/* メインコンテンツ */
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px 40px;
+    background-color: rgba(255, 255, 255, 0.9); /* 半透明の白背景 */
+    border-radius: 15px; /* 角を丸く */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15); /* より深めの影 */
 }
 
-.question-box {
-    margin-bottom: 30px;
-}
-
-.answer-btn {
-    background-color: #4CAF50; /* 緑 */
-    color: white;
-    padding: 12px 25px;
-    border: none;
-    border-radius: 8px;
-    font-size: 1.1em;
-    cursor: pointer;
-    margin: 10px;
-    transition: background-color 0.3s ease, transform 0.2s ease;
-    min-width: 150px;
-}
-
-.answer-btn:hover {
-    background-color: #45a049;
-    transform: translateY(-3px);
-}
-
-.recommendation-box {
-    background-color: #e0f7fa;
-    border: 1px solid #b3e5fc;
-    border-radius: 10px;
-    padding: 25px;
-    margin-top: 30px;
-}
-
-#song-title {
-    color: #0288d1;
-    font-size: 1.8em;
-    margin-bottom: 10px;
-}
-
-#song-description {
-    font-size: 1.1em;
-    line-height: 1.6;
+main h2 {
+    color: #FF4500; /* 鮮やかなオレンジ */
+    font-size: 2.2em;
+    border-bottom: 2px dashed #ADD8E6; /* 点線の下線で軽やかに */
+    padding-bottom: 10px;
     margin-bottom: 20px;
+    text-align: center;
 }
 
-#song-link-container a {
-    display: inline-block;
-    background-color: #ff5722; /* オレンジ */
-    color: white;
-    padding: 10px 20px;
-    border-radius: 8px;
-    text-decoration: none;
-    font-weight: bold;
-    transition: background-color 0.3s ease;
+main p {
+    font-size: 1.1em;
+    color: #555;
+    text-align: center; /* 中央揃えに */
 }
 
-#song-link-container a:hover {
-    background-color: #e64a19;
+/* フッター（必要に応じて追加） */
+footer {
+    padding: 20px;
+    text-align: center;
+    color: #666;
+    font-size: 0.9em;
+    margin-top: 50px;
 }
 
-#restart-btn {
-    background-color: #f44336; /* 赤 */
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 8px;
-    font-size: 1em;
-    cursor: pointer;
-    margin-top: 30px;
-    transition: background-color 0.3s ease;
-}
-
-#restart-btn:hover {
-    background-color: #d32f2f;
-}
-
+/* スマートフォン対応（メディアクエリ） */
 @media (max-width: 768px) {
+    header {
+        padding: 15px 20px;
+    }
+
     header h1 {
         font-size: 2em;
     }
-    nav a {
-        padding: 0 10px;
+
+    nav {
+        flex-direction: column; /* ナビを縦並びに */
+        gap: 15px;
+    }
+
+    nav a { /* スマホでのナビボタンの調整 */
+        width: 80%; /* 幅を広げる */
+        margin: 0 auto; /* 中央揃え */
+        padding: 10px 20px;
         font-size: 1em;
     }
-    main {
-        padding: 20px 15px;
-        margin: 15px auto;
-    }
-    section h2 {
-        font-size: 2em;
-    }
-}
 
-@media (max-width: 480px) {
-    header h1 {
+    main {
+        margin: 20px;
+        padding: 20px;
+    }
+
+    main h2 {
         font-size: 1.8em;
-    }
-    nav {
-        display: flex;
-        flex-direction: column;
-        gap: 10px;
-    }
-    nav a {
-        padding: 5px 10px;
-    }
-    section h2 {
-        font-size: 1.8em;
-    }
-    .analysis-content h3 {
-        font-size: 1.6em;
     }
 }

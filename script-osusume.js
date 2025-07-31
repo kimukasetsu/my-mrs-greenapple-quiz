@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 アニメ主題歌としても大ヒットした、熱く燃え上がるような一曲です。気分を上げたい時にぴったり。
             `,
-            embed_url: "http://googleusercontent.com/youtube.com/embed/E-1E_cR4z48"
+            embed_url: "https://www.youtube.com/embed/wfCcs0vLysk?"
         },
         "up_rock_deep": {
             title: "アウフヘーベン",
@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 高揚感と共に思考を深めたい時にぴったりです。聴き終わった後に、新たな視点が見つかるかもしれません。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_AUFHEBEN"
+            embed_url: "https://www.youtube.com/embed/nszTmpcXiB8?"
         },
         "up_rock_love": {
             title: "ロマンチシズム",
@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 恋愛の複雑さや美しさを深く感じたい時に、この曲が寄り添ってくれるでしょう。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_AUFHEBEN_LOVE"
+            embed_url: "https://www.youtube.com/embed/RiDCIqF0-6Y?"
         },
         "up_rock_impression": {
             title: "ニュー・マイ・ノーマル",
@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 不安を乗り越え、勇気を持って一歩を踏み出したい時に、心に響くメロディと歌詞があなたを後押しします。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_NEW_MY_NORMAL"
+            embed_url: "https://www.youtube.com/embed/E7YAf0O02Ms?"
         },
 
         "up_pop_positive": {
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 聴くと心が弾むような、青春のキラキラが詰まっています。晴れた日にドライブしながら聴くのがおすすめです。
             `,
-            embed_url: "https://www.youtube.com/embed/mB8_H2l007U" // 例: 青と夏のYouTube埋め込みURL
+            embed_url: "https://www.youtube.com/embed/m34DPnRUfMU?"
         },
         "up_pop_deep": {
             title: "ビターバカンス",
@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 夏の気だるさの中にも、新しい発見や気づきが潜んでいることを教えてくれます。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_BITTER_VACANCE"
+            embed_url: "https://www.youtube.com/embed/-6YeAmmRdoA?"
         },
         "up_pop_love": {
             title: "Love me,Love,you",
@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 キュートな世界観に浸りたい時や、大切な人に気持ちを伝えたい時にぴったりです。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_LOVE_ME_LOVE_YOU"
+            embed_url: "https://www.youtube.com/embed/FmDBhP4apbs?"
         },
         "up_pop_impression": {
             title: "鯨の唄",
@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 心揺さぶられる体験を求める時や、深い感情に浸りたい時に最適な一曲です。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_KUJIRA_NO_UTA"
+            embed_url: "https://www.youtube.com/embed/9Sg24qRRoyo?"
         },
 
         "up_ballad_positive": {
@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 穏やかな気持ちで新しい一歩を踏み出したい時や、心を落ち着かせたい時に聴いてみてください。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_FEELING"
+            embed_url: "https://www.youtube.com/embed/mO28_pl7aAw?"
         },
         "up_ballad_deep": {
             title: "絶世生物",
@@ -109,7 +109,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 壮大で哲学的な世界観に触れたい時に、あなたを別世界へといざないます。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_ZESSEI_SEIBUTSU"
+            embed_url: "https://www.youtube.com/embed/qCb1p7P2nRs?"
         },
         "up_ballad_love": {
             title: "umbrella",
@@ -118,7 +118,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 大切な人との絆を感じたい時や、しっとりとした気分に浸りたい時に寄り添ってくれます。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_UMBRELLA"
+            embed_url: "https://www.youtube.com/embed/RnBQela7oyE?"
         },
         "up_ballad_impression": {
             title: "soFt-dRink",
@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 じんわりと心に染み渡るようなメロディと歌詞が、あなたを温かく包み込みます。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_SOFT_DRINK"
+            embed_url: "https://www.youtube.com/embed/vt9YVvYFitg?"
         },
 
         "up_edm_positive": {
@@ -137,7 +137,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 ノリノリで元気になりたい時や、気分を一新したい時に最適な一曲です。
             `,
-            embed_url: "https://www.youtube.com/embed/jS4wD6s4b3g" // 例: WanteD! WanteD!のYouTube埋め込みURL
+            embed_url: "https://www.youtube.com/embed/PbISczErpKY?"
         },
         "up_edm_deep": {
             title: "スマイロブドリーマ",
@@ -146,7 +146,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 踊りながらも心に響く歌詞で、自分自身と向き合いたい時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_SMILE_SMILE_SMILE"
+            embed_url: "https://www.youtube.com/embed/BN6oz1WgyKk?"
         },
         "up_edm_love": {
             title: "Just a Friend",
@@ -155,16 +155,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 友達以上恋人未満の関係に悩む時に、共感できる歌詞が心に響きます。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_JUST_A_FRIEND"
+            embed_url: "https://www.youtube.com/embed/MC7eEs_jXPM?"
         },
         "up_edm_impression": {
-            title: "サママ・フェスティバル！", // サママフェスティバルZがこの曲名と仮定
+            title: "サママ・フェスティバル！", 
             description: `
                 夏のお祭りをテーマにした、明るく楽しい楽曲。
                 <br><br>
                 みんなで盛り上がりたい時や、夏の思い出に浸りたい時にぴったり。聴くだけでワクワクします。
             `,
-            embed_url: "https://www.youtube.com/embed/ADX4_xY0JbU"
+            embed_url: "https://www.youtube.com/embed/25kQyBF6mz4?"
         },
 
         // しっとり
@@ -175,7 +175,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 一日の終わりにゆっくり聴きたい時や、心にじんわりと温かさを感じたい時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_DAIDAI"
+            embed_url: "https://www.youtube.com/embed/tGT7JM8hk0Q?"
         },
         "calm_rock_deep": {
             title: "嘘じゃないよ",
@@ -184,7 +184,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 自分と向き合いたい時や、心の奥底にある感情を探りたい時に寄り添ってくれるでしょう。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_USO_JA_NAI_YO"
+            embed_url: "https://www.youtube.com/embed/ZjjY2n_vwc0?"
         },
         "calm_rock_love": {
             title: "Hug",
@@ -193,7 +193,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 大切な人との絆を感じたい時や、そっと寄り添ってほしい時に心に響きます。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_HUG"
+            embed_url: "https://www.youtube.com/embed/o-JkzX3gJNM?"
         },
         "calm_rock_impression": {
             title: "春愁",
@@ -202,7 +202,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 新しい季節への期待と、過ぎ去るものへの郷愁を感じながら浸りたい時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_SHUNSHUU"
+            embed_url: "https://www.youtube.com/embed/k1Ci-5lr-DA?"
         },
 
         "calm_pop_positive": {
@@ -212,7 +212,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 リラックスしたい時や、ポジティブな気持ちになりたい時にぴったりの一曲。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_LAVI"
+            embed_url: "https://www.youtube.com/embed/Ff7kdaIQvQM?"
         },
         "calm_pop_deep": {
             title: "ケセラセラ",
@@ -221,7 +221,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 ふと立ち止まって考えたい時にぴったり。肩の力を抜いて、流れに身を任せる勇気をくれます。
             `,
-            embed_url: "https://www.youtube.com/embed/nUo42l31RCA"
+            embed_url: "https://www.youtube.com/embed/Jy-QS27q7lA?"
         },
         "calm_pop_love": {
             title: "フロリジナル",
@@ -230,7 +230,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 穏やかな気持ちで恋の喜びを感じたい時や、大切な人への想いを育みたい時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_FLORIGINAL"
+            embed_url: "https://www.youtube.com/embed/By2_SOQH9PA?"
         },
         "calm_pop_impression": {
             title: "familie",
@@ -239,7 +239,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 日々の感謝や、変わらない愛の尊さを感じたい時に、じんわりと心に染み渡ります。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_FAMILIA"
+            embed_url: "https://www.youtube.com/embed/FYhxYcXfhYA?"
         },
 
         "calm_ballad_positive": {
@@ -249,7 +249,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 疲れた心を癒やし、そっと背中を押してほしい時に寄り添ってくれます。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_FOLKTALE"
+            embed_url: "https://www.youtube.com/embed/4buqIdr6FDM?"
         },
         "calm_ballad_deep": {
             title: "Dear",
@@ -258,7 +258,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 自分自身や大切な人への想いを深く見つめ直したい時に、感情の揺らぎを優しく受け止めてくれます。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_DEAR"
+            embed_url: "https://www.youtube.com/embed/cNP21cprtbk?"
         },
         "calm_ballad_love": {
             title: "点描の唄 (feat. 井上苑子)",
@@ -267,7 +267,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 切なくも美しいメロディが特徴で、恋の始まりや終わりの情景が目に浮かぶようです。
             `,
-            embed_url: "https://www.youtube.com/embed/e50BfP6mP1U"
+            embed_url: "https://www.youtube.com/embed/sL-yJIyuEaM?"
         },
         "calm_ballad_impression": {
             title: "ナハトムジーク",
@@ -276,7 +276,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 深く考えたい夜に寄り添ってくれる一曲で、心の奥底に眠る感情を呼び覚まします。
             `,
-            embed_url: "https://www.youtube.com/embed/QY2Q5zX0jL0"
+            embed_url: "https://www.youtube.com/embed/Dsylo684yWA?"
         },
 
         "calm_edm_positive": {
@@ -286,7 +286,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 穏やかな気持ちで新しい日を迎えたい時や、小さな喜びに感謝したい時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_CHEERS"
+            embed_url: "https://www.youtube.com/embed/61FXSabbeC4?"
         },
         "calm_edm_deep": {
             title: "WHOO WHOO WHOO",
@@ -295,8 +295,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 思考を巡らせながらも、心地よいリズムに身を任せたい時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_WHOO_WHOO_WHOO"
-        },
+            embed_url: "https://www.youtube.com/embed/t_Bxu18ZJRE?"
+
+        }, 
         "calm_edm_love": {
             title: "うブ",
             description: `
@@ -304,7 +305,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 甘酸っぱい気持ちに浸りたい時や、キュートな恋模様を感じたい時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_UBU"
+            embed_url: "https://www.youtube.com/embed/fV_OE75FtFU?"
         },
         "calm_edm_impression": {
             title: "REVERSE",
@@ -313,18 +314,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 過去を振り返りながらも、新たな一歩を踏み出す勇気をくれるような一曲です。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_REVERSE"
+            embed_url: "https://www.youtube.com/embed/sFYQUtSUwoY?"
         },
 
         // いやな気分
-        "hate_rock_positive": { // HTMLのdata-value="hate"に合わせています
+        "hate_rock_positive": {
             title: "私は最強 (提供曲)",
             description: `
                 困難に立ち向かう強さを歌った、力強いロックナンバー。
                 <br><br>
                 気分が落ち込んでいる時でも、この曲を聴けばきっと背中を押され、立ち上がる勇気が湧いてきます。
             `,
-            embed_url: "https://www.youtube.com/embed/sk1-ymgqj2U"
+            embed_url: "https://www.youtube.com/embed/cUdyx_B1J9E?"
         },
         "hate_rock_deep": {
             title: "ア・プリオリ",
@@ -333,7 +334,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 複雑な感情を抱えている時に、思考を整理し、自分なりの答えを見つける手助けをしてくれるでしょう。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_A_PRIORI"
+            embed_url: "https://www.youtube.com/embed/epqZJHI5I40?"
         },
         "hate_rock_love": {
             title: "Loneliness",
@@ -342,7 +343,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 一人で静かに感情と向き合いたい時や、共感を求める時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_LONELINESS"
+            embed_url: "https://www.youtube.com/embed/nUyFIf_DjVQ?"
         },
         "hate_rock_impression": {
             title: "おもちゃの兵隊",
@@ -351,7 +352,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 逆境に立ち向かう勇気を与えてくれるでしょう。苦しい時でも、希望を見出せるような力強さがあります。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_OMOCHANOHETAI"
+            embed_url: "https://www.youtube.com/embed/1AxNa1lU0cM?"
         },
 
         "hate_pop_positive": {
@@ -361,7 +362,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 聴くと心が軽くなり、自分を愛することの大切さに気づかせてくれるでしょう。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_UNLOVELACE"
+            embed_url: "https://www.youtube.com/embed/zw9sAEbBJ0w?"
         },
         "hate_pop_deep": {
             title: "ダンスホール",
@@ -370,7 +371,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 踊りながらも、現代社会について深く考えるきっかけをくれるでしょう。
             `,
-            embed_url: "https://www.youtube.com/embed/H5pe_tP1l-0"
+            embed_url: "https://www.youtube.com/embed/x2rvSf0STBM?"
         },
         "hate_pop_love": {
             title: "No.7",
@@ -379,7 +380,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 大切な人との関係について考えたい時や、共感を求める時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_NO7"
+            embed_url: "https://www.youtube.com/embed/UocdSTIntTY?"
         },
         "hate_pop_impression": {
             title: "Attitude",
@@ -388,7 +389,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 自分自身の「アティチュード」を再確認し、前に進む力を与えてくれます。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_ATTITUDE"
+            embed_url: "https://www.youtube.com/embed/ji99kh-GzTQ?"
         },
 
         "hate_ballad_positive": {
@@ -398,7 +399,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 深い感動と共に、立ち直る力を与えてくれるでしょう。
             `,
-            embed_url: "https://www.youtube.com/embed/gU9ySgL62bQ"
+            embed_url: "https://www.youtube.com/embed/xefpHEg5UIA?"
         },
         "hate_ballad_deep": {
             title: "BFF",
@@ -407,16 +408,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 大切な友人や家族との関係を見つめ直し、感謝の気持ちを感じたい時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_BFF"
+            embed_url: "https://www.youtube.com/embed/RtOACCwHMyE?"
         },
         "hate_ballad_love": {
-            title: "恋と吟とバイキング",
+            title: "Viking",
             description: `
                 まるで物語を読んでいるかのような、幻想的なラブバラード。
                 <br><br>
                 切ない恋心や、運命的な出会いを描いた世界観に浸りたい時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_KOI_TO_GIN_TO_VIKING"
+            embed_url: "https://www.youtube.com/embed/3qEvWJcfjt0?"
         },
         "hate_ballad_impression": {
             title: "Soranji",
@@ -425,7 +426,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 悲しみや葛藤を乗り越え、安らぎを見つけるための優しいメロディが特徴です。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_SORANJI"
+            embed_url: "https://www.youtube.com/embed/44cICMd3jW4?"
         },
 
         "hate_edm_positive": {
@@ -435,7 +436,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 嫌な気分を吹き飛ばし、新たな活力を得たい時に最適です。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_SPLASH"
+            embed_url: "https://www.youtube.com/embed/vufBHjELfr4?"
         },
         "hate_edm_deep": {
             title: "藍",
@@ -444,7 +445,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 静かに自分と向き合いたい時や、心の奥底にある感情を探りたい時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_AI"
+            embed_url: "https://www.youtube.com/embed/R5MYQv7Qqzo?"
         },
         "hate_edm_love": {
             title: "L.P",
@@ -453,16 +454,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 胸の内にあるモヤモヤとした恋心を、リズムに乗せて感じたい時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_LP"
+            embed_url: "https://www.youtube.com/embed/Jwjj_Em-mog?"
         },
         "hate_edm_impression": {
-            title: "WanteD! WanteD!", // 同一曲ですが、文脈に合わせた説明
+            title: "WanteD! WanteD!",
             description: `
                 高揚感のあるEDMサウンドに乗せられた、強いメッセージ。
                 <br><br>
                 嫌な気持ちを乗り越え、新しい自分になりたいという強い「感動」を覚えるでしょう。
             `,
-            embed_url: "https://www.youtube.com/embed/jS4wD6s4b3g"
+            embed_url: "https://www.youtube.com/embed/PbISczErpKY?" 
         },
 
         // 悲しい
@@ -473,7 +474,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 静かに心を癒やし、前向きな気持ちになりたい時にそっと寄り添ってくれます。
             `,
-            embed_url: "https://www.youtube.com/embed/QjrkrVmC-8M?si=z9qRf-qJp1ppSjV5"
+            embed_url: "https://www.youtube.com/embed/QjrkrVmC-8M?"
         },
         "sad_rock_deep": {
             title: "我逢人",
@@ -482,7 +483,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 悲しい時でも、人との繋がりや巡り合わせの尊さを再確認できます。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_GOUHOUJIN"
+            embed_url: "https://www.youtube.com/embed/OqEVEShYOv8?"
         },
         "sad_rock_love": {
             title: "ナニヲナニヲ",
@@ -491,7 +492,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 悲しい恋愛の情景が目に浮かび、共感を覚えるでしょう。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_NANIO_NANIO"
+            embed_url: "https://www.youtube.com/embed/uzyAw7ajW_s?"
         },
         "sad_rock_impression": {
             title: "クスシキ",
@@ -500,7 +501,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 悲しみの中に潜む美しさや、言葉にならない感情を呼び覚まし、深い感動を与えます。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_KUKUSHI"
+            embed_url: "https://www.youtube.com/embed/RCaTLn4qoz4?"
         },
 
         "sad_pop_positive": {
@@ -510,7 +511,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 明るいメロディと希望に満ちた歌詞が、心を温かく照らしてくれます。
             `,
-            embed_url: "https://www.youtube.com/embed/wX21D-C53D4"
+            embed_url: "https://www.youtube.com/embed/CN-Ja6jCweA?"
         },
         "sad_pop_deep": {
             title: "ANTENNA",
@@ -519,7 +520,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 心を解放し、自分自身を見つめ直したい時に、深く心に響くでしょう。
             `,
-            embed_url: "https://www.youtube.com/embed/O-L1E_pA3aU"
+            embed_url: "https://www.youtube.com/embed/XiSa_VIrGKE?"
         },
         "sad_pop_love": {
             title: "ブルーアンビエンス",
@@ -528,7 +529,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 悲しい恋の思い出に浸りたい時や、心穏やかに過ごしたい時に寄り添ってくれます。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_BLUE_AMBIENCE"
+            embed_url: "https://www.youtube.com/embed/ZP3GFkEE93A?"
         },
         "sad_pop_impression": {
             title: "アンゼンパイ",
@@ -537,7 +538,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 悲しみの中でも、誰かの存在が安心を与えてくれることを教えてくれます。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_ANZEN_PAI"
+            embed_url: "https://www.youtube.com/embed/mNJKbWHs1DE?"
         },
 
         "sad_ballad_positive": {
@@ -547,7 +548,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 悲しい時でも、前向きな気持ちになりたい時に、そっと心を温めてくれます。
             `,
-            embed_url: "https://www.youtube.com/embed/8yLd6-j7H5U"
+            embed_url: "https://www.youtube.com/embed/UHqkN5NIyro?"
         },
         "sad_ballad_deep": {
             title: "ダーリン",
@@ -556,7 +557,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 失われた愛や、遠く離れた人への想いを深く感じたい時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_DARLING"
+            embed_url: "https://www.youtube.com/embed/L262NKlSl4s?"
         },
         "sad_ballad_love": {
             title: "クダリ",
@@ -565,7 +566,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 悲しい恋愛の思い出に浸りたい時や、失恋の痛みを癒やしたい時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_KUDARI"
+            embed_url: "https://www.youtube.com/embed/j7MPiIabcbE?"
         },
         "sad_ballad_impression": {
             title: "天国",
@@ -574,7 +575,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 悲しい気持ちを静かに昇華させ、心に平和をもたらしたい時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_TENGOKU"
+            embed_url: "https://www.youtube.com/embed/CO0Eoj9aPcs?"
         },
 
         "sad_edm_positive": {
@@ -584,7 +585,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 悲しみを乗り越え、新しい旅に出る勇気を与えてくれるでしょう。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_JOURNEY"
+            embed_url: "https://www.youtube.com/embed/yt_ac9gO4xc?"
         },
         "sad_edm_deep": {
             title: "Speaking",
@@ -593,16 +594,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 悲しい気持ちを抱えながらも、内面と向き合い、新たな視点を見つけたい時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_SPEAKING"
+            embed_url: "https://www.youtube.com/embed/4KUA-1DvQZk?"
         },
         "sad_edm_love": {
-            title: "
+            title: "SwitCh",
             description: `
                 恋の複雑さや、感情の切り替わりをEDMサウンドで表現した一曲。
                 <br><br>
                 悲しい恋愛の状況から、新しいステップへと気持ちを「スイッチ」したい時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_SWITCH"
+            embed_url: "https://www.youtube.com/embed/_iyyHZ0qCNQ?"
         },
         "sad_edm_impression": {
             title: "ツキマシテハ",
@@ -611,19 +612,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 <br><br>
                 悲しみや切なさを抱えながらも、心の奥底で何かを感じたい時に。
             `,
-            embed_url: "YOUR_YOUTUBE_EMBED_URL_FOR_TSUKIMASHITEWA"
+            embed_url: "https://www.youtube.com/embed/P2GhoO-u0kI?"
         },
-
-        // どの組み合わせにも当てはまらない場合のデフォルト
-        "default": {
-            title: "Soranji", // デフォルト曲を変更
-            description: `
-                診断結果に当てはまる曲が見つかりませんでしたが、あなたにはこの感動的な一曲をおすすめします！
-                <br><br>
-                映画主題歌にもなった、壮大で心揺さぶるバラードです。
-            `,
-            embed_url: "https://www.youtube.com/embed/5U2z04o-k-E" // SoranjiのYouTube埋め込みURL
-        }
     };
 
     // 最初の質問を表示

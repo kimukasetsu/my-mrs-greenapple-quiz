@@ -81,85 +81,111 @@ nav a:active { /* クリック時のアクティブエフェクト */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
 }
 
-h2 {
-    color: #2980b9;
-    margin-bottom: 25px;
-    font-size: 1.8em;
+main {
+    padding: 30px 20px;
+    max-width: 1000px;
+    margin: 30px auto;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.08);
 }
 
-.question-box {
+.intro-text {
+    font-size: 1.2em;
+    text-align: center;
+    margin-bottom: 40px;
+    color: #555;
+    padding: 0 20px;
+}
+
+section {
+    margin-bottom: 60px;
+}
+
+section h2 {
+    color: #2E7D32; /* 深いグリーン */
+    font-size: 2.4em;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    border-bottom: 3px solid #e0e0e0;
+}
+
+.mv-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9の縦横比 */
+    margin-bottom: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+}
+
+.mv-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.disclaimer {
+    font-size: 0.9em;
+    color: #777;
+    text-align: center;
+    margin-top: 10px;
     margin-bottom: 30px;
 }
 
-.answer-btn {
-    background-color: #4CAF50; /* 緑 */
-    color: white;
-    padding: 12px 25px;
-    border: none;
-    border-radius: 8px;
-    font-size: 1.1em;
-    cursor: pointer;
-    margin: 10px;
-    transition: background-color 0.3s ease, transform 0.2s ease;
-    min-width: 150px;
-}
-
-.answer-btn:hover {
-    background-color: #45a049;
-    transform: translateY(-3px);
-}
-
-.recommendation-box {
-    background-color: #e0f7fa;
-    border: 1px solid #b3e5fc;
-    border-radius: 10px;
-    padding: 25px;
-    margin-top: 30px;
-}
-
-#song-title {
-    color: #0288d1;
+.analysis-content h3 {
+    color: #4CAF50; /* ミセスグリーン */
     font-size: 1.8em;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    border-left: 5px solid #66BB6A;
+    padding-left: 10px;
+}
+
+.analysis-content p {
+    line-height: 1.7;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+.analysis-content h4 {
+    color: #388E3C; /* 少し濃いグリーン */
+    font-size: 1.4em;
+    margin-top: 20px;
     margin-bottom: 10px;
 }
 
-#song-description {
-    font-size: 1.1em;
-    line-height: 1.6;
+.analysis-content ul {
+    list-style-type: disc;
+    padding-left: 30px;
     margin-bottom: 20px;
 }
 
-#song-link-container a {
-    display: inline-block;
-    background-color: #ff5722; /* オレンジ */
-    color: white;
-    padding: 10px 20px;
-    border-radius: 8px;
-    text-decoration: none;
-    font-weight: bold;
-    transition: background-color 0.3s ease;
+.analysis-content ul li {
+    margin-bottom: 8px;
 }
 
-#song-link-container a:hover {
-    background-color: #e64a19;
-}
-
-#restart-btn {
-    background-color: #f44336; /* 赤 */
-    color: white;
-    padding: 10px 20px;
+hr {
     border: none;
-    border-radius: 8px;
-    font-size: 1em;
-    cursor: pointer;
-    margin-top: 30px;
-    transition: background-color 0.3s ease;
+    border-top: 1px dashed #ccc;
+    margin: 50px 0;
 }
 
-#restart-btn:hover {
-    background-color: #d32f2f;
+footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+    background-color: #333;
+    color: #fff;
+    font-size: 0.9em;
 }
 
+/* レスポンシブデザイン */
 @media (max-width: 768px) {
     header h1 {
         font-size: 2em;
